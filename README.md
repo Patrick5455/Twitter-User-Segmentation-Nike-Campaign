@@ -1,4 +1,4 @@
-# Twitter-User-Segmentation
+# Twitter User Segmentation for Nike Marketing Campaign
 
 > Analysing Africa Twitter Influentials
 
