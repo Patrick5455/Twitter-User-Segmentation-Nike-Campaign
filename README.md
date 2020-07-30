@@ -4,7 +4,7 @@
 
 ### Objective
 
-This analysis is aimed at identifying top twitter influencer and most influential
+This analysis was aimed at identifying top twitter influencer and most influential
 government official accounts on Twitter.
 
 Top Influncers would be identified based on three different metrics:
@@ -12,6 +12,6 @@ Top Influncers would be identified based on three different metrics:
 - 2. Popularity (Likes & Retweets)
 - 3. Relevance (Mentions counts & Reply counts)
 
-The findings from this analysis would be used to recommend a certain line of
-actions to Nike Inc in its proposed expansion to Africa. The data was
+The findings from this analysis was used to recommend certain line of
+actions to Nike Inc in its proposed expansion to Africa and Marketing Campaign. The data was
 gathered using the Twitter API.
